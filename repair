@@ -1,0 +1,3 @@
+with open("main.py","a+") as file:
+	file.write("print('hello word!!1')")
+print("Done")
