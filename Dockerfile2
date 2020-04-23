@@ -1,4 +1,4 @@
 FROM python:3
 COPY ./main.py ./
-run echo "work"
+run python repair
 
